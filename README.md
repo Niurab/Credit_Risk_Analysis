@@ -24,7 +24,7 @@ The precision for the high_risk is 1 percent and for the low_risk is 100 percent
 Figure 2: Imbalanced classification report
 
 
-## SMOTE Oversampling
+### SMOTE Oversampling
 
 The balanced accuracy test is approximately 65 percent.
 
@@ -32,7 +32,20 @@ The balanced accuracy test is approximately 65 percent.
 
 Figure 3: SMOTE balanced accuracy test
 
-The precision for the high_risk remains at 1 percent while the recall is now 63 percent
+The precision for the high_risk remains at 1 percent while the recall is now 63 percent.
 ![SMOTE classification report](https://user-images.githubusercontent.com/91093413/151721924-06dd7c47-094f-4528-b155-297c8b7aef90.png)
 
 Figure 4: SMOTE classification report
+
+### Undersampling
+
+The balanced accuracy test is approximately 53 percent
+
+![Undersampling balanced accuracy test](https://user-images.githubusercontent.com/91093413/151722153-7965848c-6bbc-4176-bf4c-0d6f5db4c740.png)
+
+Figure 5: Undersampling balanced accuracy test
+
+The precision for the high_risk remains at 1 percent while the recall is 61 percent.
+![Undersampling](https://user-images.githubusercontent.com/91093413/151722209-9cdbf6c8-4e9e-4373-85fe-08b2efbe2c6d.png)
+
+Figure 6: Undersampling classification report
