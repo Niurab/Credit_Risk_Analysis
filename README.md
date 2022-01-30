@@ -73,7 +73,7 @@ The balanced accuracy test is approximately 79 percent.
 
 Figure 9: Balanced Random Forest Classifier
 
-The precision for the high_risk remains at 1 percent while the recall is 67 percent.
+The precision for the high_risk  is 4 percent while the recall is 67 percent.
 ![Balanced Random Forest Classifier classification report](https://user-images.githubusercontent.com/91093413/151722840-82ad40f8-29e1-499a-9ba7-cfee6ad87317.png)
 
 Figure 10: Balanced Random Forest Classifier classification report
