@@ -49,3 +49,18 @@ The precision for the high_risk remains at 1 percent while the recall is 61 perc
 ![Undersampling](https://user-images.githubusercontent.com/91093413/151722209-9cdbf6c8-4e9e-4373-85fe-08b2efbe2c6d.png)
 
 Figure 6: Undersampling classification report
+
+
+### Combination(Over and Undersampling
+
+The balanced accuracy test is approximately 62 percent
+![Combinational balanced accuracy score](https://user-images.githubusercontent.com/91093413/151722366-58ec595f-e9fb-4f90-a72f-946cf2084c23.png)
+
+Figure 7: Combinational balanced accuracy score
+
+The precision for the high_risk remains at 1 percent while the recall is 69 percent.
+![combination](https://user-images.githubusercontent.com/91093413/151722424-a9d3cf37-1b1a-48bd-9e1d-ab7f093bcb6d.png)
+
+Figure 8: Combination classification report
+
+
