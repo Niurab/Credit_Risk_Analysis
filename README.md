@@ -79,4 +79,19 @@ The precision for the high_risk  is 4 percent while the recall is 67 percent.
 Figure 10: Balanced Random Forest Classifier classification report
 
 
-### Easy Emsemble AdaBoost Classifier results
+### Easy Emsemble AdaBoost Classifier
+
+The balanced accuracy test is approximately 93 percent.
+
+![Easy Ensemble accuracy test](https://user-images.githubusercontent.com/91093413/151723051-a0137360-1788-40ce-9121-a22405bfad98.png)
+
+Figure 11:Easy Ensemble AdaBoost Classifier accuracy score.
+
+The precision for the high_risk  is 7 percent while the recall is 91 percent.
+![Easy Ensemble accuracy test classification report](https://user-images.githubusercontent.com/91093413/151723084-b8a2af74-b055-4f5a-9865-86f5aa9d5ee4.png)
+
+Figure 12:Easy Ensemble classification report
+
+
+## Summary:
+
