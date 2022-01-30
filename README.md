@@ -39,7 +39,7 @@ Figure 4: SMOTE classification report
 
 ### Undersampling
 
-The balanced accuracy test is approximately 53 percent
+The balanced accuracy test is approximately 53 percent.
 
 ![Undersampling balanced accuracy test](https://user-images.githubusercontent.com/91093413/151722153-7965848c-6bbc-4176-bf4c-0d6f5db4c740.png)
 
@@ -53,7 +53,8 @@ Figure 6: Undersampling classification report
 
 ### Combination(Over and Undersampling
 
-The balanced accuracy test is approximately 62 percent
+The balanced accuracy test is approximately 62 percent.
+
 ![Combinational balanced accuracy score](https://user-images.githubusercontent.com/91093413/151722366-58ec595f-e9fb-4f90-a72f-946cf2084c23.png)
 
 Figure 7: Combinational balanced accuracy score
