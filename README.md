@@ -13,12 +13,14 @@ We oversample the given data using RamdomOverSampler and SMOTE algorithms then a
 The balanced accuracy test is 64 percent.
 
 ![Balanced accuracy test](https://user-images.githubusercontent.com/91093413/151721515-ad0eb385-a502-4337-a775-f9f03ece030a.png)
+
 Figure 1: Balanced accurancy test
 
 
 The precision for the high_risk is 1 percent and for the low_risk is 100 percent. The recall is 60 percent.
 
 ![Imbalanced classification report](https://user-images.githubusercontent.com/91093413/151721623-21802718-5e54-486c-b2ed-029dbdb0a97c.png)
+
 Figure 2: Imbalanced classification report
 
 
