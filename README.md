@@ -95,3 +95,4 @@ Figure 12:Easy Ensemble classification report
 
 ## Summary:
 
+In the first four models, we oversampled using naive random oversampling, oversampled using SMOTE oversampling, undersampling and a combination of over and undersampling. The models used for the credit analysis show weak precision in deciding if credit risk is high in these four instances. The models got a little better while using balanced random forest classifier and easy ensemble AdaBoost classifier. I would recommend the emsemble classifier model because of it fairly good job of predicting credit risk as indicated by the precision and recall scores.
